@@ -1,5 +1,5 @@
 {
-  "realm" : "demo",
-  "auth-server-url" : "http://localhost:8080/auth",
+  "realm" : "demo-pw",
+  "auth-server-url" : "https://secure-sso.apap.com.do/auth",
   "resource" : "js-console"
 }
